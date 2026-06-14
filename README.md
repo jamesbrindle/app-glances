@@ -1,5 +1,15 @@
 # Home Assistant Community Add-on: Glances
 
+Note: This is a fork from: https://github.com/hassio-addons/app-glances
+
+It remains at app-glances v.021.1 (https://github.com/hassio-addons/app-glances/tree/v0.21.1) where the export to influx and UI still work together and home assistant won't try and update it...
+
+Or you can copy this to your local add-ons instead.
+
+For newer releases use: https://github.com/hassio-addons/app-glances
+
+
+
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
 [![License][license-shield]](LICENSE.md)
